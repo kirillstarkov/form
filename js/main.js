@@ -132,3 +132,4 @@ btnAddStart.onclick = function () {
 
 
 console.log(teacher);
+console.log(teacher.group);
